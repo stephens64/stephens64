@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a passionate developer and designer, always 
 - 🎓 **Full-Stack Developer**: Recently graduated from a coding bootcamp, with a focus on React and modern web technologies.
 - 🖌️ **3D Modeler**: Creator of highly detailed props and cosplay files under the name **Mooner3D**.
 - 🔗 **Entrepreneur**: Founder of Mesh3Designs, offering high quality, 3D printable files inspired by games and movies.
-- 🎲 **Creative Developer: Contributing to DnDesigner, a collaborative project that merges the worlds of 3D printing and Dungeons & Dragons to enhance tabletop RPG experiences.
+- 🎲 **Creative Developer**: Contributing to DnDesigner, a collaborative project that merges the worlds of 3D printing and Dungeons & Dragons to enhance tabletop RPG experiences.
 - 🌟 **Skills**: Hardworking, adaptable, and always ready to learn.
 
 ---
