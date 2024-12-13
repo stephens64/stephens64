@@ -1,4 +1,4 @@
-# Hi there, I'm Brock Stephens (aka stephens64) 👋
+# Hello there, I'm Brock Stephens (aka stephens64) 👋
 
 Welcome to my GitHub profile! I’m a passionate developer and designer, always eager to create innovative solutions and bring ideas to life. Whether it's web development, 3D modeling, or diving into creative projects, I’m here to make magic happen. 🎩✨
 
